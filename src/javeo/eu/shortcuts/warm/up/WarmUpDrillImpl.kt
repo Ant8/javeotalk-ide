@@ -1,6 +1,6 @@
-package javeo.eu.shortcuts.warm.up;
+package javeo.eu.shortcuts.warm.up
 
-import javeo.eu.ClassToMove;
+import javeo.eu.ClassToMove
 
 // Todo 1: add another comment
 
@@ -23,70 +23,63 @@ if a panel has tabs, you can switch between them with alt+left/right
 fold/unfold method: ctrl + [shift] + -/+
  */
 
-public class WarmUpDrillImpl implements WarmUpDrill {
+class WarmUpDrillImpl : WarmUpDrill {
 
-    public static void main(String[] args) {
-        System.out.println(WarmUpDrillImpl.class.getSimpleName());
-
-        WarmUpDrill warmUpDrill = new WarmUpDrillImpl();
-        warmUpDrill.someOtherMethod("sweet nothing");
-    }
-
-    public void someLooongMethod() {
+    fun someLooongMethod() {
         System.out.print("but this is always slightly different some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("isn't it some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("it took me a lot of effort some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("to make that hidden messages some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("so you can't actually troll me some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("with ease some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("and it was quite late in the nite mate some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("and i'm terribly sleepy mate some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("ok now i give up some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("go to hell some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
         System.out.print("some long textsome long te" +
                 "xtsome long textsome long textsome long textsome long textsome long textsome long textsome long textsome long " +
-                "textsome long textsome long textsome long textsome long textsome long text");
+                "textsome long textsome long textsome long textsome long textsome long text")
     }
 
     //    todo 2b: find declaration in interface (ctrl+u), where todo 2c hides
@@ -94,20 +87,30 @@ public class WarmUpDrillImpl implements WarmUpDrill {
     //    todo 5: check (using ctrl+p) parametres names of someMethodWithSoManyParametresYouNeedToLookUpEveryTimeAndTheNameItselfIsPrettyBadTooSoRenameIt()
     //    todo 6: check javadoc of someUsefulMethod() with ctrl+q
     @Override
-    public void someOtherMethod(String parametre) {
-        ClassToMove classToMove = new ClassToMove();
-        classToMove.someUsefulMethod("used inside someOtherMethod()");
-        classToMove.someMethodWithSoManyParametresYouNeedToLookUpEveryTimeAndTheNameItselfIsPrettyBadTooSoRenameIt("", "", "", "", "", "", "", "", "");
+    fun someOtherMethod(parametre: String) {
+        val classToMove = ClassToMove()
+        classToMove.someUsefulMethod("used inside someOtherMethod()")
+        classToMove.someMethodWithSoManyParametresYouNeedToLookUpEveryTimeAndTheNameItselfIsPrettyBadTooSoRenameIt("", "", "", "", "", "", "", "", "")
     }
 
     @Override
-    public void someOtherMethod(String parametre, int someInteger) {
+    fun someOtherMethod(parametre: String, someInteger: Int) {
 
     }
 
     @Override
-    public void someOtherMethod(String parametre, int someInteger, double anotherMeaninglessParametre) {
+    fun someOtherMethod(parametre: String, someInteger: Int, anotherMeaninglessParametre: Double) {
 
+    }
+
+    companion object {
+
+        fun main(args: Array<String>) {
+            System.out.println(WarmUpDrillImpl::class.java!!.getSimpleName())
+
+            val warmUpDrill = WarmUpDrillImpl()
+            warmUpDrill.someOtherMethod("sweet nothing")
+        }
     }
 
 }
