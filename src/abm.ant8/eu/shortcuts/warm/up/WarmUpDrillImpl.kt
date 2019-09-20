@@ -1,6 +1,6 @@
-package javeo.eu.shortcuts.warm.up
+package abm.ant8.eu.shortcuts.warm.up
 
-import javeo.eu.ClassToMove
+import abm.ant8.eu.ClassToMove
 
 // Todo 1: add another comment
 

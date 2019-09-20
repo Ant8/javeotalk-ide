@@ -1,4 +1,4 @@
-package javeo.eu.shortcuts.warm.up
+package abm.ant8.eu.shortcuts.warm.up
 
 interface WarmUpDrill {
 

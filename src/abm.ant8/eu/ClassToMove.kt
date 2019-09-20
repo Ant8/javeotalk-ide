@@ -1,4 +1,4 @@
-package javeo.eu
+package abm.ant8.eu
 
 // todo b3: move class to package refactor
 // todo b4: then make a superclass out of it

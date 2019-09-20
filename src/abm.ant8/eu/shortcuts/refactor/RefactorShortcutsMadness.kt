@@ -1,9 +1,9 @@
-package javeo.eu.shortcuts.refactor
+package abm.ant8.eu.shortcuts.refactor
 
 // todo c1: optimise imports!
-import javeo.eu.shortcuts.warm.up.WarmUpDrill
-import javeo.eu.shortcuts.warm.up.WarmUpDrillImpl
-import javeo.eu.shortcuts.refactor.PileOfPoo
+import abm.ant8.eu.shortcuts.warm.up.WarmUpDrill
+import abm.ant8.eu.shortcuts.warm.up.WarmUpDrillImpl
+import abm.ant8.eu.shortcuts.refactor.PileOfPoo
 
 class RefactorShortcutsMadness {
 

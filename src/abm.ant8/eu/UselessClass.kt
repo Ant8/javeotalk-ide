@@ -1,4 +1,4 @@
-package javeo.eu
+package abm.ant8.eu
 
 object UselessClass {
 

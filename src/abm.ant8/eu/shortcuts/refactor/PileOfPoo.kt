@@ -1,6 +1,6 @@
-package javeo.eu.shortcuts.refactor
+package abm.ant8.eu.shortcuts.refactor
 
-import javeo.eu.ClassToMove
+import abm.ant8.eu.ClassToMove
 
 // todo b6: navigate between errors using f2, then take action (alt+enter)
 // todo b7: replace someMethodWithSoManyParametresYou... call with someUsefulMethod call, using ctrl+space and tab; see the difference between tab and enter
